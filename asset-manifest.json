@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MyFirstApp/static/css/main.d820349f.chunk.css",
-    "main.js": "/MyFirstApp/static/js/main.3c3e4378.chunk.js",
-    "main.js.map": "/MyFirstApp/static/js/main.3c3e4378.chunk.js.map",
-    "runtime-main.js": "/MyFirstApp/static/js/runtime-main.3d55a7f1.js",
-    "runtime-main.js.map": "/MyFirstApp/static/js/runtime-main.3d55a7f1.js.map",
-    "static/js/2.3b709a7a.chunk.js": "/MyFirstApp/static/js/2.3b709a7a.chunk.js",
-    "static/js/2.3b709a7a.chunk.js.map": "/MyFirstApp/static/js/2.3b709a7a.chunk.js.map",
-    "index.html": "/MyFirstApp/index.html",
-    "precache-manifest.369ebc7ced1d0d4a8229d49e9d3909e7.js": "/MyFirstApp/precache-manifest.369ebc7ced1d0d4a8229d49e9d3909e7.js",
-    "service-worker.js": "/MyFirstApp/service-worker.js",
-    "static/css/main.d820349f.chunk.css.map": "/MyFirstApp/static/css/main.d820349f.chunk.css.map",
-    "static/js/2.3b709a7a.chunk.js.LICENSE.txt": "/MyFirstApp/static/js/2.3b709a7a.chunk.js.LICENSE.txt",
-    "static/media/image.png": "/MyFirstApp/static/media/image.107ad235.png"
+    "main.css": "/mysecond/static/css/main.d820349f.chunk.css",
+    "main.js": "/mysecond/static/js/main.3c3e4378.chunk.js",
+    "main.js.map": "/mysecond/static/js/main.3c3e4378.chunk.js.map",
+    "runtime-main.js": "/mysecond/static/js/runtime-main.86851c0d.js",
+    "runtime-main.js.map": "/mysecond/static/js/runtime-main.86851c0d.js.map",
+    "static/js/2.97429871.chunk.js": "/mysecond/static/js/2.97429871.chunk.js",
+    "static/js/2.97429871.chunk.js.map": "/mysecond/static/js/2.97429871.chunk.js.map",
+    "index.html": "/mysecond/index.html",
+    "precache-manifest.8e5728215c2a21235bf21fd31267a461.js": "/mysecond/precache-manifest.8e5728215c2a21235bf21fd31267a461.js",
+    "service-worker.js": "/mysecond/service-worker.js",
+    "static/css/main.d820349f.chunk.css.map": "/mysecond/static/css/main.d820349f.chunk.css.map",
+    "static/js/2.97429871.chunk.js.LICENSE.txt": "/mysecond/static/js/2.97429871.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/mysecond/static/media/image.107ad235.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3d55a7f1.js",
-    "static/js/2.3b709a7a.chunk.js",
+    "static/js/runtime-main.86851c0d.js",
+    "static/js/2.97429871.chunk.js",
     "static/css/main.d820349f.chunk.css",
     "static/js/main.3c3e4378.chunk.js"
   ]
